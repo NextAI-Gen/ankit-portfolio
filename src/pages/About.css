@@ -1,0 +1,268 @@
+.about {
+  min-height: 100vh;
+  padding-top: 80px;
+  background: #f8f9fa;
+}
+
+.about-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.about-header {
+  text-align: center;
+  margin-bottom: 4rem;
+}
+
+.about-header h1 {
+  font-size: 3rem;
+  color: #333;
+  margin-bottom: 1rem;
+  background: linear-gradient(45deg, #667eea, #764ba2);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.about-intro {
+  font-size: 1.2rem;
+  color: #666;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.about-content {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.about-section {
+  background: white;
+  padding: 2rem;
+  border-radius: 15px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.about-section h2 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.education-card {
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  color: white;
+  padding: 2rem;
+  border-radius: 12px;
+  margin-bottom: 1.5rem;
+}
+
+.education-card h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.institution {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  opacity: 0.9;
+}
+
+.duration, .gpa, .percentage {
+  opacity: 0.8;
+  margin-bottom: 0.5rem;
+}
+
+.experience-card {
+  background: #f8f9fa;
+  padding: 2rem;
+  border-radius: 12px;
+  margin-bottom: 1.5rem;
+  border-left: 4px solid #667eea;
+}
+
+.exp-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.exp-header h3 {
+  color: #333;
+  font-size: 1.3rem;
+}
+
+.period {
+  background: #667eea;
+  color: white;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+}
+
+.company {
+  color: #764ba2;
+  font-weight: 600;
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+.experience-card ul {
+  list-style: none;
+  padding: 0;
+}
+
+.experience-card li {
+  position: relative;
+  padding-left: 20px;
+  margin-bottom: 0.5rem;
+  color: #555;
+  line-height: 1.5;
+}
+
+.experience-card li:before {
+  content: '▸';
+  color: #667eea;
+  position: absolute;
+  left: 0;
+}
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+}
+
+.skill-category {
+  background: #f8f9fa;
+  padding: 1.5rem;
+  border-radius: 12px;
+  border: 1px solid #e9ecef;
+}
+
+.skill-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.skill-icon {
+  color: #667eea;
+  font-size: 1.5rem;
+}
+
+.skill-header h3 {
+  color: #333;
+  margin: 0;
+}
+
+.skills-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.skill-tag {
+  background: linear-gradient(45deg, #667eea, #764ba2);
+  color: white;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.certifications-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+
+.certification-card {
+  background: linear-gradient(135deg, #ffd89b, #19547b);
+  color: white;
+  padding: 1.5rem;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.certification-card p {
+  margin: 0;
+  font-weight: 500;
+}
+
+.passion-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+.passion-card {
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  color: white;
+  padding: 2rem;
+  border-radius: 12px;
+  text-align: center;
+  transform: translateY(0);
+  transition: transform 0.3s ease;
+}
+
+.passion-card:hover {
+  transform: translateY(-5px);
+}
+
+.passion-card h3 {
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
+}
+
+.passion-card p {
+  opacity: 0.9;
+  line-height: 1.5;
+}
+
+@media screen and (max-width: 768px) {
+  .about-container {
+    padding: 1rem;
+  }
+  
+  .about-header h1 {
+    font-size: 2rem;
+  }
+  
+  .about-intro {
+    font-size: 1rem;
+  }
+  
+  .about-section {
+    padding: 1.5rem;
+  }
+  
+  .about-section h2 {
+    font-size: 1.5rem;
+  }
+  
+  .exp-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+  
+  .skills-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .certifications-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .passion-grid {
+    grid-template-columns: 1fr;
+  }
+}
