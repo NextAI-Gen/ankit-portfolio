@@ -1,70 +1,121 @@
-# Getting Started with Create React App
+# 🚀 Ankit Choudhary - AI/ML Engineer Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
-## Available Scripts
+> **Professional AI/ML Engineer Portfolio - Showcasing projects, skills, and certifications**
 
-In the project directory, you can run:
+## 🌟 About
 
-### `npm start`
+Welcome to my portfolio! I'm an innovative Computer Science student specializing in **AI/ML solutions** and **web development**. This portfolio showcases my technical expertise, professional journey, and passion for creating intelligent systems that solve real-world problems.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## ✨ Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 🎨 **Modern Design**
+- Clean, professional interface with glass-morphism effects
+- Responsive design that works on all devices
+- Smooth animations and micro-interactions
+- Dark-themed featured project showcase
 
-### `npm test`
+### 🤖 **AI/ML Focus**
+- Specialized branding as AI/ML Engineer
+- Showcase of intelligent systems and projects
+- Technical skills in Machine Learning and Computer Vision
+- Professional certifications in AI technologies
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🏆 **Professional Showcase**
+- **6+ Certifications** including AWS, Oracle AI, IBM ML, and Cisco
+- **2 Internships** with hands-on experience
+- **Interactive Timeline** of professional journey
+- **Skills Visualization** with proficiency levels
 
-### `npm run build`
+### 📄 **Resume Integration**
+- Downloadable resume functionality
+- Professional resume preview
+- Direct contact integration
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠️ Technical Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### **Frontend**
+- **React** - Modern UI framework
+- **React Router** - Client-side routing
+- **CSS3** - Advanced styling with animations
+- **React Icons** - Professional iconography
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### **Features**
+- **Responsive Design** - Mobile-first approach
+- **Modern Typography** - Inter font family
+- **Glass Morphism** - Modern design trend
+- **Smooth Animations** - CSS transitions and keyframes
 
-### `npm run eject`
+## 🏆 Achievements
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **GPA**: 7.9/10.0 (Current)
+- **Certifications**: 6+ Professional Certifications
+- **Experience**: 2 Industry Internships
+- **Projects**: 5+ Technical Projects
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 📜 **Certifications**
+- IBM Machine Learning Professional Certificate
+- AWS Cloud Practitioner Certification
+- Oracle AI Foundations Professional Certificate
+- Cisco CCNAv7 - Enterprise Networking, Security, and Automation
+- IBM Linux Commands & Shell Scripting
+- Google Solution Challenge Certificate
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🚀 Quick Start
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Prerequisites
+- Node.js (v14 or higher)
+- npm or yarn package manager
 
-## Learn More
+### Installation
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/NextAI-Gen/ankit-portfolio.git
+   cd ankit-portfolio
+   ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
 
-### Code Splitting
+3. **Start development server**
+   ```bash
+   npm start
+   ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+4. **Open in browser**
+   ```
+   http://localhost:3000
+   ```
 
-### Analyzing the Bundle Size
+### Build for Production
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```bash
+npm run build
+```
 
-### Making a Progressive Web App
+## 📞 Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+**Ankit Choudhary**  
+AI/ML Engineer | Computer Science Student
 
-### Advanced Configuration
+- 📧 **Email**: [Ankitchoudhary7100@gmail.com](mailto:Ankitchoudhary7100@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/ankit-choudhary-aanku](https://linkedin.com/in/ankit-choudhary-aanku)
+- 🐱 **GitHub**: [github.com/NextAI-Gen](https://github.com/NextAI-Gen)
+- 📄 **Resume**: Available for download in the portfolio
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+<div align="center">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+**⭐ If you found this portfolio impressive, please give it a star! ⭐**
 
-### `npm run build` fails to minify
+**Built with ❤️ by Ankit Choudhary**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+</div>
